@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\bin\Debug\net7.0\UserProfile.exe
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\bin\Debug\net7.0\UserProfile.deps.json
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\bin\Debug\net7.0\UserProfile.runtimeconfig.json
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\bin\Debug\net7.0\UserProfile.dll
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\bin\Debug\net7.0\UserProfile.pdb
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.AssemblyInfoInputs.cache
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.AssemblyInfo.cs
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.dll
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\refint\UserProfile.dll
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.pdb
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\UserProfile.genruntimeconfig.cache
+C:\Users\Vsevolod\projects\Skillfactory\UserProfile\UserProfile\obj\Debug\net7.0\ref\UserProfile.dll
